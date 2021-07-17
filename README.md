@@ -11,10 +11,10 @@ Once started the application wil be available at http://localhost:3000/
 **Webhooks: Provides register, update, list and trigger actions.
 
 ## Routes
-**/create to register target url
-**/read to return a list of urls and their corresponding ids
-**/update to update an id with a new target url
-**/trigger to get the ip of sender and send it as a POST request to the list of URLs along with the UNIX time of the POST request
+**  /create to register target url
+**  /read to return a list of urls and their corresponding ids
+**  /update to update an id with a new target url
+**  /trigger to get the ip of sender and send it as a POST request to the list of URLs along with the UNIX time of the POST request
 
 ## Commands to test webhooks microservice
 *   npm run dev
