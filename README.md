@@ -25,7 +25,7 @@ Once started the application wil be available at http://localhost:3000/
 *   call webhooks.trigger --ipAddress='Ip address of the user'
 
 ## Mixins
-**db.mixin: Database access mixin for services.
+*  db.mixin: Database access mixin for services.
 
 ## NPM scripts
 - `npm run dev`: Start development mode (load all services locally with hot-reload & REPL)
