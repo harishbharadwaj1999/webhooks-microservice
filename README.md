@@ -1,6 +1,7 @@
 # webhooks-microservice
 Dyte problem statement to create a “webhooks microservice” using  Moleculer and Express
 
+Clone this repository.
 Run 'npm install' to install all dependencies.
 Start the project with 'npm run dev' command.
 
